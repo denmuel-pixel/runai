@@ -1,0 +1,6 @@
+{
+  "name": "PARI RUN 2026",
+  "description": "An award-winning, premium landing page for PARI RUN 2026 inspired by Apple, Nike, and modern WebGL experiences. Features an immersive design, luxury sports aesthetics, race categories, interactive route map, event details, and ticket registration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
